@@ -3,6 +3,9 @@
         display: block !important;
     }
     .wrapper{
-        margin-left: -20px;
+        margin-left: -50px;
+    }
+    .wrapper>.button{
+        padding: 0 7px !important;
     }
 }
