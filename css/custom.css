@@ -5,7 +5,15 @@
     .wrapper{
         margin-left: -50px;
     }
-    .wrapper>.button{
+    .wrapper .button{
         padding: 0 7px !important;
+    }
+    .services-thumb:hover .services-icon-wrap{
+        background: transparent !important;
+        border-color: transparent !important;
+        color: transparent !important
+    }
+    .doctrine{
+        display: none;
     }
 }
